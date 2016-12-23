@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+/* 헤더영역 */
+
+.header{
+  height: 100px;
+}
+
+.logo{
+  height: 100px;
+  line-height: 100px;
+  background: #ffaaaa;
+  text-align: center;
+
+  &-link{
+    font-size: 30px;
+    color: #fff;
+  }
+}

@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* 푸터영역 */
+
+.footer{
+  height: 50px;
+  // #333, #666, #999, #aaa : 텍스트
+  // #fafafa, #ddd, #ccc : 배경색, 테두리색
+  background: #666;
+  font-size: 20px;
+  text-align: center;
+  color: #fafafa;
+  line-height: 50px;
+}
